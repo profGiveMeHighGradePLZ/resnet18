@@ -35,5 +35,3 @@ ResNet‐18 is a convolutional neural network architecture that is part of the R
 ResNet‐18 is a foundational architecture in the ﬁeld of deep learning, particularly in computer vision. Its innovative use of residual connections has inﬂuenced many subsequent models and continues to be a popular choice for various applications. If you have speciﬁc questions or need further details about ResNet‐18 or related topics, feel free to ask!
 
 # reference:
-  1,https://blog.csdn.net/weixin_39524208/article/details/124894216?utm_source=miniapp_weixin
-  2,https://www.bilibili.com/video/BV1Bo4y1T7Lc/?spm_id_from=333.1007.top_right_bar_window_history.content.click
